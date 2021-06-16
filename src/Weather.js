@@ -65,4 +65,7 @@ export default function Weather(props) {
       </div>
     );
   }
+  <small>
+                <a href="https://github.com/CintaChan86/Weather-React"> Coded </a> by Yacinta Hostiningtyas
+  </small>
 }
